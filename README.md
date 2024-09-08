@@ -1,4 +1,4 @@
-##  **README Descontraído: Seu Guia Rápido para a Pesquisa de Planos Kaspersky**
+##  **README Descontraído: Seu Guia Rápido para a Pesquisa de Planos Kaspersky** - Imersão Dev com google Gemini
 
 **O que essa aplicação faz?**
 
